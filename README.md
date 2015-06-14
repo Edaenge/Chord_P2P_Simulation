@@ -4,8 +4,8 @@ Simon Edänge as a Bachelor Computer Science Degree Project
 at Blekinge Institute of Technology.
 
 Name: Simon Edänge
-E-mail: ediz_cracked@hotmail.com
+E-mail: sied10@student.bth.se
 
 
-IDE Used: 		NetBeans 8.0.2
+IDE Used: 			NetBeans 8.0.2
 Java Version Used: 	JDK 1.8
